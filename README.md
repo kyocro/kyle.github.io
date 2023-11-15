@@ -1,4 +1,5 @@
-#My Cybersecurity Portfolio
+My Cybersecurity Portfolio
+
 A portfolio created to showcase the cybersecurity skills of Kyle Crooks.
 
 Please share this portfolio with anyone you want, there's no such thing as bad exposure when it comes to finding the job of my dreams!
